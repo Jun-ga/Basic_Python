@@ -18,4 +18,4 @@ ___________________________________________________
 예시) Day 0의 Hello, World 조원 최정아일 경우
 
 
-Hello, World._2_Choijunga.py
+Hello, World._2_CJA.py
