@@ -1,7 +1,7 @@
 if __name__ == '__main__':
     n = int(input())
     binary_number = bin(n)[2:]
-    # 10진수를 2진수로 변환, 이때 2진수로 변환된 숫자 앞에 0b가 붙기 때문에 2번째 자리부터 숫자를 나타내면 된다.
+    # 10진수를 2진수로 변환, 이때 2진수로 변환된 숫자 앞에 0b가 붙기때문에 2번째 자리부터 숫자를 나타내면 된다.
    
     bin_num_list = []
     for num in binary_number:
