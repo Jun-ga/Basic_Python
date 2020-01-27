@@ -2,7 +2,7 @@ if __name__ == '__main__':
     N = int(input())
     result = []
 
-    for i in range(N):
+    for _ in range(N):
         case = input().split(' ')
         case_name = case[0]
 
