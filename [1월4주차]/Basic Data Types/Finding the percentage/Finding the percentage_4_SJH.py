@@ -7,8 +7,8 @@ if __name__ == '__main__':
         student_marks[name] = scores
     query_name = input()
 
-    want_mark_score = student_marks[query_name]
-    # print(want_mark_score)
+    want_score_mark = student_marks[query_name]
+    # print(want_score_mark)
     
-    average_score = sum(want_mark_score) / 3
+    average_score = sum(want_score_mark) / 3
     print('%.2f' % average_score)
