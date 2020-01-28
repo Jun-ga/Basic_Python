@@ -2,7 +2,7 @@ Hackerrank
 =============================================================
 해커랭크 문제를 매주 풀어서 코드 공유하기!
 
-https://www.hackerrank.com/challenges/nested-list/problem
+https://www.hackerrank.com/challenges/find-a-string/problem
 
 
 파일 올리는 양식
