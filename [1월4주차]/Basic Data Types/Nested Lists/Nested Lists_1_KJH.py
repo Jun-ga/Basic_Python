@@ -12,6 +12,6 @@ if __name__ == '__main__':
     students.sort(key=operator.itemgetter(0))
 
     for i in range(n):
-        if sorted(students)[i][1]==number:
+        if students[i][1]==number:
             print(students[i][0])
 
